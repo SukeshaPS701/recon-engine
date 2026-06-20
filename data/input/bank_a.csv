@@ -1,0 +1,4 @@
+txn_id,date,amount,currency,sender,receiver,reference,bank,channel
+TXN001,2026-06-18,1000.00,INR,Alice,Bob,REF1001,SBI,UPI
+TXN002,2026-06-18,500.00,INR,John,Mark,REF1002,SBI,NEFT
+TXN003,2026-06-19,2500.00,INR,Ravi,Neha,REF1003,SBI,RTGS

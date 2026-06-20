@@ -1,0 +1,37 @@
+<root>
+    <transaction>
+        <txn_id>CTX001</txn_id>
+        <date>2026-06-18</date>
+        <amount>1000.00</amount>
+        <currency>INR</currency>
+        <sender>Alice</sender>
+        <receiver>Bob</receiver>
+        <reference>REF1001</reference>
+        <bank>ICICI</bank>
+        <channel>UPI</channel>
+    </transaction>
+
+    <transaction>
+        <txn_id>CTX002</txn_id>
+        <date>2026-06-18</date>
+        <amount>500.00</amount>
+        <currency>INR</currency>
+        <sender>John</sender>
+        <receiver>Mark</receiver>
+        <reference>REF1002-A</reference>
+        <bank>ICICI</bank>
+        <channel>NEFT</channel>
+    </transaction>
+
+    <transaction>
+        <txn_id>CTX003</txn_id>
+        <date>2026-06-20</date>
+        <amount>900.00</amount>
+        <currency>INR</currency>
+        <sender>Test</sender>
+        <receiver>User</receiver>
+        <reference>REFX999</reference>
+        <bank>ICICI</bank>
+        <channel>CARD</channel>
+    </transaction>
+</root>
